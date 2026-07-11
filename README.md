@@ -169,13 +169,18 @@ Git | GitHub | Docker | Firebase | Google Cloud
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanchalitorpe13&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanchalitorpe13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchalitorpe13&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalitorpe13&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalitorpe13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+</p>
 
 
 ---
@@ -183,7 +188,9 @@ Git | GitHub | Docker | Firebase | Google Cloud
 # 🐍 Contribution Snake
 
 
-![snake](https://github.com/sanchalitorpe13/sanchalitorpe13/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanchalitorpe13/sanchalitorpe13/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 ---
@@ -191,15 +198,9 @@ Git | GitHub | Docker | Firebase | Google Cloud
 # 🏆 GitHub Achievements
 
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sanchalitorpe13&theme=tokyonight)
-
-
----
-
-# 📈 Coding Activity
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchalitorpe13&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanchalitorpe13&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 
 ---
