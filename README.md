@@ -239,12 +239,10 @@ Topics:
 
 ---
 
-# 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/sanchalitorpe13/sanchalitorpe13/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://raw.githubusercontent.com/sanchalitorpe13/sanchalitorpe13/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
