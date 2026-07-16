@@ -1,233 +1,245 @@
-# 👋 Hi, I'm Sanchali Torpe
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanchalitorpe13&label=Profile%20Views&color=blue&style=flat" />
-</p>
+# Hi there 👋 I'm **Sanchali Torpe**
 
 <h3 align="center">
-AI/ML Engineer | Competitive Programmer | Open Source Contributor 🚀
+AI Engineer • Open Source Contributor • Competitive Programmer
 </h3>
 
 <p align="center">
-Building intelligent systems, solving algorithmic problems, and contributing to open source.
+Building intelligent systems with <b>Machine Learning</b>, <b>LLMs</b>, <b>Computer Vision</b>, and <b>Software Engineering</b>.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Open+Source+Contributor;Competitive+Programmer;Building+Real-World+AI+Applications;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-🎓 B.Tech Computer Engineering Student 🇮🇳
-
-I am passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Software Development**.
-
-I enjoy building AI-powered applications, solving Data Structures & Algorithms problems, and contributing to open-source communities.
-
-* 🤖 Exploring **LLMs, AI Agents & Generative AI**
-* 🧠 Practicing **DSA & Competitive Programming**
-* 🌍 Contributing to **Open Source Projects**
-* 🚀 Building real-world AI applications
+* 🎓 B.Tech Computer Engineering Student
+* 🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
+* 💻 Open Source Contributor
+* 📚 Competitive Programmer
+* 🌱 Currently learning **MLOps, LLM Engineering, AI Agents & Advanced DSA**
+* 🔭 Building AI applications that solve real-world problems
+* 💬 Ask me about **Python, C++, AI/ML, Computer Vision, LLMs, Git & Open Source**
 
 ---
 
-# 🔭 Currently Working On
+# 🚀 Current Focus
 
-## 🤖 AI / ML Projects
-
-### 🧠 SupportGen
-
-AI-powered customer support automation system.
-
-Features:
-
-* Intelligent ticket classification
-* Automated responses using LLMs
-* AI-based support workflow
-
-### 🎙️ Kiro-AI
-
-Voice-driven AI study assistant.
-
-Features:
-
-* Voice interaction
-* AI tutoring capabilities
-* Personalized learning support
-
-### 🏥 Clinical Triage AI Assistant
-
-A safe AI decision-support simulation environment.
-
-Features:
-
-* Medical scenario classification
-* AI-based recommendations
-* Reinforcement learning environment
-
-### 🚗 CLAIM NOVA
-
-AI-powered vehicle insurance automation system.
-
-Features:
-
-* Vehicle damage detection
-* Computer vision pipeline
-* YOLOv8-based analysis
+* 🏥 AI-powered Healthcare Applications
+* 🤖 Large Language Models (LLMs)
+* 🎯 Computer Vision
+* ⚙️ AI Agents
+* 🌍 Open Source Contributions
+* 💻 Data Structures & Algorithms
 
 ---
 
-# 💻 Competitive Programming
+# 🏆 Achievements
 
-I enjoy solving algorithmic problems and improving my problem-solving skills.
-
-### Topics Practiced:
-
-✔ Arrays
-✔ Strings
-✔ Linked Lists
-✔ Stack & Queue
-✔ Trees
-✔ Graphs
-✔ Dynamic Programming
-✔ Recursion
-✔ Binary Search
-✔ Greedy Algorithms
-
-### Coding Profiles
-
-🔗 LeetCode: Add your profile link
-
-🔗 CodeChef: Add your profile link
-
-🔗 HackerRank: Java 3 ⭐
+* 🌟 Google Cloud Skills Boost Learner
+* 🌟 Amazon ML Summer School Participant
+* 🌟 Open Source Contributor
+* 🌟 GSSoC Contributor
+* 🌟 300+ DSA Problems Solved
+* 🌟 AI & Machine Learning Project Developer
 
 ---
 
 # 🌍 Open Source Contributions
 
-Active learner and contributor in open-source communities.
+### Organizations
 
-Currently exploring:
-
-* INCF
-* NumFOCUS
 * Apache Airflow
 * Astropy
-* SciPy
+* CERN TIGRE
+* NumFOCUS DISCOVER Cookbook
+* CBRAIN CLI
+* DevPath
 
-Interested in contributing to:
+### Areas of Contribution
 
-* AI/ML Infrastructure
-* Developer Tools
-* Data Science Libraries
-* Open Source AI Projects
+* Documentation
+* Bug Fixes
+* Testing
+* Developer Experience
+* AI & Scientific Computing
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🩺 AI Medical Triage Assistant
 
-## 🤖 SupportGen
+Safe AI-powered clinical decision support simulation environment.
 
-AI Customer Support Automation
+**Tech**
 
-**Tech Stack**
+Python • Reinforcement Learning • AI Agents • Docker
 
-Python • NLP • LLM • FastAPI • Streamlit
-
-</td>
-
-<td width="50%">
-
-## 🏥 AI Medical Triage
-
-Clinical decision simulation environment
-
-**Tech Stack**
-
-Python • ML • Docker • AI Agents
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ## 🚗 CLAIM NOVA
 
-Vehicle Insurance Automation
+AI-powered insurance claim automation using Computer Vision.
 
-**Tech Stack**
+**Tech**
 
-Python • YOLOv8 • Computer Vision
-
-</td>
-
-<td width="50%">
-
-## 🎙️ Kiro-AI
-
-Voice AI Study Assistant
-
-**Tech Stack**
-
-Python • Speech AI • LLMs
-
-</td>
-</tr>
-
-</table>
+Python • YOLOv8 • OpenCV • Deep Learning
 
 ---
 
-# 🛠️ Tech Stack
+## 🤖 SupportGen
 
-## Programming Languages
+LLM-powered customer support automation platform.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+**Tech**
 
-## AI / Machine Learning
-
-Machine Learning | Deep Learning | NLP | LLMs | Prompt Engineering | AI Agents
-
-## Frameworks & Tools
-
-React | Next.js | FastAPI | Flask | Streamlit | Docker
-
-## Data & Cloud
-
-NumPy | Pandas | Scikit-Learn | SQL | Firebase | Google Cloud
-
-## Developer Tools
-
-Git | GitHub | Linux | VS Code | Postman
+Python • FastAPI • Streamlit • NLP • LLMs
 
 ---
 
-# 📊 GitHub Analytics
+## 🎙️ Kiro AI
+
+Voice-driven AI study assistant for personalized learning.
+
+**Tech**
+
+Python • Speech Recognition • LLMs
+
+---
+
+## 🛡️ SafeEval
+
+Framework for evaluating LLM safety, hallucinations and factual consistency.
+
+**Tech**
+
+Python • Evaluation Framework • AI Safety
+
+---
+
+## 💻 DSA Repository
+
+Collection of Data Structures & Algorithms solutions in C++.
+
+Topics include:
+
+* Arrays
+* Strings
+* Trees
+* Graphs
+* Dynamic Programming
+* Binary Search
+* Greedy
+* Recursion
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+* Python
+* C++
+* Java
+* JavaScript
+* SQL
+
+### AI & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* NLP
+* Reinforcement Learning
+* Scikit-learn
+* OpenCV
+* YOLOv8
+
+### Generative AI
+
+* LLMs
+* Prompt Engineering
+* AI Agents
+* Hugging Face
+* LangChain
+* Gemini API
+
+### Backend
+
+* FastAPI
+* Flask
+* Streamlit
+
+### Frontend
+
+* React
+* Next.js
+* HTML
+* CSS
+* Tailwind CSS
+
+### Databases
+
+* MySQL
+* Firebase
+
+### Cloud & DevOps
+
+* Docker
+* Google Cloud
+
+### Developer Tools
+
+* Git
+* GitHub
+* Linux
+* VS Code
+* Postman
+
+---
+
+# 💻 Competitive Programming
+
+I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
+
+Topics:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stack
+* Queue
+* Trees
+* Graphs
+* Dynamic Programming
+* Binary Search
+* Greedy Algorithms
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanchalitorpe13&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanchalitorpe13&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchalitorpe13&theme=tokyonight&hide_border=true" width="48%"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchalitorpe13&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalitorpe13&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalitorpe13&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
 
@@ -237,50 +249,48 @@ Git | GitHub | Linux | VS Code | Postman
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 Contribution Timeline
+
+### 2025
+
+* 🚀 Started Open Source Journey
+* 💻 Built Personal Portfolio
+* 🖥️ Built Live Code Editor
+* 🤖 Started AI Projects
+
+### 2026
+
+* 🌍 Contributed to Apache Airflow
+* 🌍 Contributed to Astropy
+* 🌍 Contributed to CERN TIGRE
+* 🌍 Contributed to NumFOCUS
+* 🤖 Built AI Medical Triage Assistant
+* 🤖 Built SafeEval
+* 🚗 Built CLAIM NOVA
+* 🎙️ Built Kiro AI
+* 💻 Continued Competitive Programming
+
+---
+
+# 🤝 Connect With Me
+
+* 💼 LinkedIn
+* 💻 GitHub
+* 🧩 LeetCode
+* 🍽️ CodeChef
+* 🏆 HackerRank
+* 📧 [sanchalitorpe@gmail.com](mailto:sanchalitorpe@gmail.com)
+
+---
+
+# 💡 Developer Philosophy
+
+> *"I enjoy building AI systems that solve meaningful real-world problems while continuously learning through open source, competitive programming, and hands-on development."*
+
+---
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sanchalitorpe13&theme=tokyonight&no-frame=true&row=1&column=6"/>
+⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.
 
 </p>
-
----
-
-# 📈 Coding Journey
-
-```
-Learning → Building → Solving → Contributing → Growing 🚀
-```
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/sanchalitorpe13">
-GitHub
-</a>
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com">
-LinkedIn
-</a>
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com">
-LeetCode
-</a>
-
-</p>
-
----
-
-# ✨ Developer Quote
-
-> "Great software is built by curiosity, consistency, and continuous learning."
-
----
-
-⭐ If you find my work interesting, consider starring my repositories!
