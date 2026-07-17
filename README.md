@@ -272,11 +272,11 @@ Topics:
 
 # 🤝 Connect With Me
 
-* 💼 LinkedIn
-* 💻 GitHub
-* 🧩 LeetCode
-* 🍽️ CodeChef
-* 🏆 HackerRank
+* 💼 [LinkedIn](https://linkedin.com/in/sanchali-torpe-1b749b372)
+* 💻 [GitHub](https://github.com/sanchalitorpe13)
+* 🧩 [LeetCode](https://leetcode.com/u/sanchalitorpe13/)
+* 🍽️ [CodeChef](https://www.codechef.com/users/sanchali_13)
+* 🏆 [HackerRank]()
 * 📧 [sanchalitorpe@gmail.com](mailto:sanchalitorpe@gmail.com)
 
 ---
