@@ -92,9 +92,9 @@ Machine Learning • Deep Learning • Computer Vision • NLP • LLMs • AI A
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchalitorpe13&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchalitorpe13&theme=tokyo-night"/>
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
