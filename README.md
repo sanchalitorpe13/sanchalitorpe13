@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sanchali Torpe
+# Hi 👋, I'm Sanchali
 
 <h3 align="center">AI Engineer • Open Source Contributor • Competitive Programmer</h3>
 
