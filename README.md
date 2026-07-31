@@ -283,7 +283,9 @@ Location:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanchalitorpe13&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanchalitorpe13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
 </div>
 
 ---
