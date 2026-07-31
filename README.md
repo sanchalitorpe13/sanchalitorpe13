@@ -48,19 +48,19 @@ Location:
       <br/>GitHub
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="https://www.linkedin.com/in/sanchali-torpe-1b749b372/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
       </a>
       <br/>LinkedIn
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="sanchalitorpe@gmail.com" target="_blank">
         <img src="https://cdn.simpleicons.org/gmail/A855F7" width="55" height="55" alt="Email"/>
       </a>
       <br/>Email
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="https://www.kaggle.com/sanchalitorpe" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" height="55" alt="Kaggle"/>
       </a>
       <br/>Kaggle
@@ -73,8 +73,6 @@ Location:
     </td>
   </tr>
 </table>
-
-> Replace the `#` links above with your LinkedIn, email, Kaggle, and portfolio URLs.
 
 ---
 
@@ -231,33 +229,31 @@ Location:
       <br/>GitHub
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="https://leetcode.com/u/sanchalitorpe13/" target="_blank">
         <img src="https://cdn.simpleicons.org/leetcode/A855F7" width="55" height="55" alt="LeetCode"/>
       </a>
       <br/>LeetCode
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="https://www.codechef.com/users/sanchali_13" target="_blank">
         <img src="https://cdn.simpleicons.org/codechef/A855F7" width="55" height="55" alt="CodeChef"/>
       </a>
       <br/>CodeChef
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="https://www.hackerrank.com/profile/sanchalitorpe" target="_blank">
         <img src="https://cdn.simpleicons.org/hackerrank/A855F7" width="55" height="55" alt="HackerRank"/>
       </a>
       <br/>HackerRank
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="https://www.kaggle.com/sanchalitorpe" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" height="55" alt="Kaggle"/>
       </a>
       <br/>Kaggle
     </td>
   </tr>
 </table>
-
-> Replace the `#` URLs with your profile links.
 
 ---
 
