@@ -37,16 +37,6 @@ Location:
 
 ---
 
-## 🚀 Current Focus
-
-- 🔭 Building AI-powered applications
-- 🌱 Learning RAG, MLOps & System Design
-- 🤝 Contributing to Open Source
-- 💻 Solving Data Structures & Algorithms
-- 🎯 Preparing for Software Engineering Internships
-
----
-
 ## 🌐 Connect With Me
 
 <table>
@@ -219,25 +209,14 @@ Location:
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 - 🏅 GSSoC 2026 Contributor
 - 🏅 Solved **300+ Data Structures & Algorithms** problems
 - 🏅 Google Cloud Skills Boost Certified
-- 🏅 Completed Anthropic AI Learning Courses
-- 🏅 Built multiple end-to-end AI applications
-- 🏅 Active Open Source Contributor
-
----
-
-## 📜 Certifications
-
-- Google Cloud Skills Boost
-- Anthropic AI Courses
-- Kaggle AI Learning Programs
-- Generative AI Fundamentals
-- Prompt Engineering
-- Machine Learning Foundations
+- 🏅 Anthropic AI Learning Courses
+- 🏅 Kaggle AI Learning Programs
+- 🏅 Generative AI Fundamentals & Prompt Engineering
 
 ---
 
@@ -282,50 +261,6 @@ Location:
 
 ---
 
-## 📚 Currently Learning
-
-```text
-🧠 Large Language Models (LLMs)
-⚡ Retrieval-Augmented Generation (RAG)
-🤖 AI Agents
-📦 MLOps
-☁ Cloud Deployment
-🏗 System Design
-🚀 Backend Development
-```
-
----
-
-## ❤️ Open Source
-
-```text
-🌱 I enjoy collaborating on meaningful open-source projects.
-
-My interests include:
-• Artificial Intelligence
-• Machine Learning
-• Generative AI
-• Developer Tools
-• Open Source Infrastructure
-• Backend Development
-
-Always open to collaborating on impactful projects!
-```
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Strengthen Software Engineering skills
-- ✅ Build production-ready AI applications
-- ✅ Contribute consistently to Open Source
-- ✅ Learn scalable backend systems
-- ✅ Master MLOps & AI deployment
-- ✅ Secure a Software Engineering Internship
-- ✅ Continue solving DSA problems consistently
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -333,14 +268,10 @@ Always open to collaborating on impactful projects!
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sanchalitorpe13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A855F7&text_color=c9d1d9&bg_color=00000000"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalitorpe13&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=00000000"/>
 
-</div>
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sanchalitorpe13&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A855F7&currStreakLabel=A78BFA"/>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanchalitorpe13&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A855F7&currStreakLabel=A78BFA"/>
 </div>
 
 ---
@@ -361,28 +292,6 @@ Always open to collaborating on impactful projects!
 
 ---
 
-## 📅 Profile Details
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanchalitorpe13&theme=tokyonight"/>
-</div>
-
----
-
-## 📌 GitHub Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanchalitorpe13&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanchalitorpe13&theme=tokyonight"/>
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanchalitorpe13&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanchalitorpe13&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
 ## 💭 Quote of the Day
 
 <div align="center">
@@ -393,23 +302,7 @@ Always open to collaborating on impactful projects!
 
 ## 🤝 Let's Collaborate
 
-I'm always interested in collaborating on projects related to:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🚀 Generative AI
-- 💻 Software Engineering
-- 🌐 Full-Stack Development
-- 📚 Open Source
-
-If you have an exciting project or idea, feel free to connect with me!
-
----
-
-## ⭐ Support My Work
-
-If you like my work, consider giving a ⭐ to my repositories.
-It motivates me to keep building and contributing to open source.
+I'm always interested in collaborating on projects related to AI, Machine Learning, Generative AI, and Software Engineering. If you have an exciting project or idea, feel free to connect — and if you like my work, a ⭐ on my repositories always helps!
 
 ---
 
