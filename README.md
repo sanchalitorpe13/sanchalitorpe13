@@ -1,313 +1,296 @@
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=230&section=header&text=Sanchali%20Torpe&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20AI%2FML%20Engineer%20%7C%20Software%20Developer&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<!--
+  GitHub Profile README
+  Owner: sanchalitorpe13
+  Theme: Midnight Blue | Balanced | AI/ML Engineering
+-->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI-powered+solutions+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%9A%80;Software+Engineering+Enthusiast+%F0%9F%92%BB;Always+Learning+%7C+Always+Building+%E2%9A%A1" alt="Typing SVG"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1220,50:142B4D,100:2563EB&text=Sanchali%20Torpe&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
+
+<br/>
+
+<a href="https://github.com/sanchalitorpe13">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Exploring+AI+%7C+ML+%7C+LLM+Engineering;Contributing+to+Open+Source;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sanchalitorpe13&label=Profile%20Views&color=A855F7&style=flat"/>
-<img src="https://img.shields.io/github/followers/sanchalitorpe13?label=Followers&style=flat&color=A855F7"/>
-<img src="https://img.shields.io/github/stars/sanchalitorpe13?affiliations=OWNER&style=flat&color=6366F1"/>
+<a href="https://github.com/sanchalitorpe13">
+  <img src="https://img.shields.io/badge/GitHub-sanchalitorpe13-172B4D?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:sanchalitorpe@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sanchali-torpe-1b749b372/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Building Intelligence. Engineering Impact.**
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## `$ whoami`
 
-```yaml
-Name: Sanchali Vaibhav Torpe
-Education:
-  B.Tech Computer Engineering
-  Sanjivani College of Engineering
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - LLM Engineering
-  - Software Engineering
-Current Goal:
-  Become a Software Engineer building intelligent AI systems.
-Location:
-  Maharashtra, India
-```
+I'm **Sanchali Torpe**, a Computer Engineering student passionate about building intelligent software and exploring the intersection of AI and Software Engineering.
+
+I enjoy experimenting with machine learning, developing LLM-powered applications, building AI agents and contributing to open-source ecosystems.
+
+- 🎓 B.Tech Computer Engineering — Sanjivani College of Engineering
+- 🤖 Exploring Artificial Intelligence, Machine Learning and Generative AI
+- 🧠 Interested in LLM Engineering, RAG and Agentic AI Systems
+- 🌍 Open Source Contributor — GSSoC 2026
+- 🏆 Smartly × GSSoC AI Agents Track — Global Rank #3
+- 💻 300+ Data Structures and Algorithms problems solved
+- 🚀 Focused on building practical, scalable and impactful software
+
+**Current direction:** AI/ML Engineering + Software Development.
 
 ---
 
-## 🌐 Connect With Me
+## `$ featured_projects`
+
+Projects where I'm exploring ideas, solving problems and building practical applications.
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/sanchalitorpe13" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-      </a>
-      <br/>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/sanchali-torpe-1b749b372/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
-      </a>
-      <br/>LinkedIn
-    </td>
-    <td align="center" width="96">
-      <a href="sanchalitorpe@gmail.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/gmail/A855F7" width="55" height="55" alt="Email"/>
-      </a>
-      <br/>Email
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.kaggle.com/sanchalitorpe" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" height="55" alt="Kaggle"/>
-      </a>
-      <br/>Kaggle
-    </td>
-    <td align="center" width="96">
-      <a href="#" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
-      </a>
-      <br/>Portfolio
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🤖 GitHub Issue Triage ML
 
-## 🛠 Tech Stack
+AI-powered system to classify and prioritize GitHub issues using Natural Language Processing and Machine Learning.
 
-### 🤖 Artificial Intelligence & Machine Learning
+**Focus:** Applied ML · NLP · Automation
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/><br/>TensorFlow</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch"/><br/>PyTorch</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/><br/>Scikit-learn</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface/A855F7" width="55" height="55" alt="Hugging Face"/><br/>Hugging Face</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV"/><br/>OpenCV</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/yolo/A855F7" width="55" height="55" alt="YOLOv8"/><br/>YOLOv8</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/><br/>NumPy</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/><br/>Pandas</td>
-  </tr>
-</table>
+<a href="https://github.com/sanchalitorpe13/github-issue-triage-ml">
+<img src="https://img.shields.io/badge/Explore%20Project-2563EB?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-### 🧠 Generative AI
+</td>
+<td width="50%" valign="top">
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/A855F7" width="55" height="55" alt="OpenAI"/><br/>OpenAI</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/A855F7" width="55" height="55" alt="Gemini"/><br/>Gemini</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/A855F7" width="55" height="55" alt="Claude"/><br/>Claude</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/A855F7" width="55" height="55" alt="LangChain"/><br/>LangChain</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/ollama/A855F7" width="55" height="55" alt="Ollama"/><br/>Ollama</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/chromadb/A855F7" width="55" height="55" alt="ChromaDB"/><br/>ChromaDB</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/meta/A855F7" width="55" height="55" alt="FAISS"/><br/>FAISS</td>
-  </tr>
-</table>
+### 🧠 FriendMind
 
-### 💻 Languages
+A personal AI study companion built using open-source AI, designed to provide an interactive learning experience.
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/><br/>Python</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/><br/>Java</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/><br/>C++</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/><br/>C</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML"/><br/>HTML</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS"/><br/>CSS</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/><br/>JavaScript</td>
-  </tr>
-</table>
+**Focus:** RAG · Local LLMs · AI Applications
 
-### 🌐 Web Development
+<a href="https://github.com/sanchalitorpe13/FriendMind">
+<img src="https://img.shields.io/badge/Explore%20Project-2563EB?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/><br/>React</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js"/><br/>Next.js</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="TailwindCSS"/><br/>TailwindCSS</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="55" height="55" alt="Firebase"/><br/>Firebase</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask"/><br/>Flask</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/streamlit/A855F7" width="55" height="55" alt="Streamlit"/><br/>Streamlit</td>
-  </tr>
-</table>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ☁ Cloud & DevOps
+### 🌲 TrailMate-AI
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/><br/>Docker</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/><br/>Google Cloud</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br/>Git</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br/>GitHub</td>
-  </tr>
-</table>
+An AI-powered nature exploration companion that generates personalized outdoor missions and tracks user experiences.
 
-### 🗄 Databases
+**Focus:** AI Applications · Personalization
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/><br/>MySQL</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/><br/>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/><br/>MongoDB</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="55" height="55" alt="Firebase"/><br/>Firebase</td>
-  </tr>
+<a href="https://github.com/sanchalitorpe13/TrailMate-AI">
+<img src="https://img.shields.io/badge/Explore%20Project-2563EB?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ SafeEval
+
+An LLM evaluation framework focused on hallucination detection, bias analysis and factual consistency.
+
+**Focus:** LLM Evaluation · AI Reliability
+
+<a href="https://github.com/sanchalitorpe13/llm-evaluation-framework">
+<img src="https://img.shields.io/badge/Explore%20Project-2563EB?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 SupportGen
+
+An AI-powered customer support automation system for complaint classification, response generation and ticket creation.
+
+**Focus:** NLP · LLMs · Tool Calling
+
+<a href="https://github.com/sanchalitorpe13/SupportGen">
+<img src="https://img.shields.io/badge/Explore%20Project-2563EB?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Claim Nova
+
+An AI-powered vehicle insurance claim automation project exploring computer vision for intelligent vehicle damage detection.
+
+**Focus:** Computer Vision · YOLOv8 · OpenCV
+
+<a href="https://github.com/sanchalitorpe13">
+<img src="https://img.shields.io/badge/Explore%20Repositories-2563EB?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🌟 Featured Projects
+## `$ tech_stack`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚑 AI Medical Triage Assistant</h3>
-      A safe AI-powered clinical triage system designed to classify patient urgency and recommend the next appropriate action.
-      <br/><br/>
-      <b>Tech Stack:</b> Python • Streamlit • LLMs • Prompt Engineering
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 SupportGen</h3>
-      AI-powered customer support ticket automation system using NLP and Large Language Models.
-      <br/><br/>
-      <b>Tech Stack:</b> Python • Streamlit • OpenAI • NLP
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 CLAIM NOVA</h3>
-      Vehicle insurance claim automation using computer vision with YOLOv8 for intelligent damage detection.
-      <br/><br/>
-      <b>Tech Stack:</b> YOLOv8 • OpenCV • Python
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎙️ Kiro-AI</h3>
-      Voice-powered AI study assistant capable of answering academic questions and assisting students interactively.
-      <br/><br/>
-      <b>Tech Stack:</b> Python • LLMs • Speech Recognition
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ SafeEval</h3>
-      Evaluation framework for benchmarking Large Language Models on safety, robustness, and hallucination detection.
-      <br/><br/>
-      <b>Tech Stack:</b> Python • LLMs • Evaluation
-    </td>
-    <td width="50%" valign="top">
-      <h3>📩 Automated IT Support Ticket Categorization</h3>
-      Automatically classifies IT support requests into appropriate categories using NLP.
-      <br/><br/>
-      <b>Tech Stack:</b> Python • Scikit-Learn • Streamlit
-    </td>
-  </tr>
-</table>
+Technologies I work with and continue to explore.
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css&theme=dark" />
+</p>
+
+### Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-142B4D?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-NLP-142B4D?style=flat-square&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-142B4D?style=flat-square" />
+</p>
+
+### Generative AI & LLM Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-LLM%20Framework-142B4D?style=flat-square" />
+<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-142B4D?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-142B4D?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-142B4D?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-AI%20Retrieval-142B4D?style=flat-square" />
+</p>
+
+### Web Development & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,nodejs,mongodb,mysql,postgres,firebase&theme=dark" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vscode,linux&theme=dark" />
+</p>
 
 ---
 
-## 🏆 Achievements & Certifications
+## `$ open_source_journey`
 
-- 🏅 GSSoC 2026 Contributor
-- 🏅 Solved **300+ Data Structures & Algorithms** problems
-- 🏅 Google Cloud Skills Boost Certified
-- 🏅 Anthropic AI Learning Courses
-- 🏅 Kaggle AI Learning Programs
-- 🏅 Generative AI Fundamentals & Prompt Engineering
+Open source has been an important part of my engineering journey.
 
----
+### GSSoC 2026
 
-## 💻 Coding Profiles
+- Global Rank #242 — latest leaderboard shared
+- B Tier
+- Contributor across Open Source and AI Agents tracks
+- GSSoC Champion badge
+- First merged pull request and continued contribution journey
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/sanchalitorpe13" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-      </a>
-      <br/>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="https://leetcode.com/u/sanchalitorpe13/" target="_blank">
-        <img src="https://cdn.simpleicons.org/leetcode/A855F7" width="55" height="55" alt="LeetCode"/>
-      </a>
-      <br/>LeetCode
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.codechef.com/users/sanchali_13" target="_blank">
-        <img src="https://cdn.simpleicons.org/codechef/A855F7" width="55" height="55" alt="CodeChef"/>
-      </a>
-      <br/>CodeChef
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.hackerrank.com/profile/sanchalitorpe" target="_blank">
-        <img src="https://cdn.simpleicons.org/hackerrank/A855F7" width="55" height="55" alt="HackerRank"/>
-      </a>
-      <br/>HackerRank
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.kaggle.com/sanchalitorpe" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" height="55" alt="Kaggle"/>
-      </a>
-      <br/>Kaggle
-    </td>
-  </tr>
-</table>
+### Smartly × GSSoC AI Agents Track
+
+- 🌟 Global Rank #3
+- 🏆 City Rank #1
+- Recognized in the Top 50
+- Worked with agent-oriented open-source projects
+- Badges: Trusted Corrector, Localization Specialist and Regional Expert
+
+**I believe open source is not just about contributing code; it's about learning, collaboration and building together.**
 
 ---
 
-## 📊 GitHub Analytics
+## `$ competitive_programming`
+
+Strengthening problem-solving skills through data structures, algorithms and competitive programming.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sanchalitorpe13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A855F7&text_color=c9d1d9&bg_color=00000000"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalitorpe13&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=00000000"/>
+<a href="https://leetcode.com/u/sanchalitorpe13/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-142B4D?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
 
-<br/>
+<a href="https://www.codechef.com/users/sanchali_13">
+<img src="https://img.shields.io/badge/CodeChef-Profile-142B4D?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sanchalitorpe13&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A855F7&currStreakLabel=A78BFA"/>
+<a href="https://codeforces.com/profile/sanchalitorpe">
+<img src="https://img.shields.io/badge/Codeforces-Profile-142B4D?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**300+ DSA problems solved**
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## `$ github_analytics`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchalitorpe13&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A78BFA&line=A855F7&point=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanchalitorpe13&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&icon_color=818CF8&text_color=C9D7E8&ring_color=60A5FA" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalitorpe13&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=C9D7E8" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sanchalitorpe13&hide_border=true&background=0B1220&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA&sideLabels=C9D7E8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanchalitorpe13&bg_color=0B1220&color=C9D7E8&line=60A5FA&point=818CF8&area=true&hide_border=true" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## `$ beyond_code`
 
-<div align="center">
+I believe engineering is a continuous learning process.
 
-<img src="https://github-profile-trophy.vercel.app/?username=sanchalitorpe13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+Currently interested in:
 
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
+- Building production-oriented AI applications.
+- Exploring LLMs, RAG and autonomous AI agents.
+- Strengthening DSA and software engineering fundamentals.
+- Contributing to meaningful open-source projects.
+- Learning how intelligent systems can solve real-world problems.
 
 ---
 
-## 🤝 Let's Collaborate
+## `$ connect_with_me`
 
-I'm always interested in collaborating on projects related to AI, Machine Learning, Generative AI, and Software Engineering. If you have an exciting project or idea, feel free to connect — and if you like my work, a ⭐ on my repositories always helps!
-
----
+I'm always open to interesting collaborations, open-source opportunities and conversations around AI and Software Engineering.
 
 <div align="center">
 
-### 🚀 *"Building intelligent software that creates real-world impact."*
+<a href="mailto:sanchalitorpe@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=140&section=footer"/>
+<a href="https://github.com/sanchalitorpe13">
+<img src="https://img.shields.io/badge/GitHub-Follow-172B4D?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**"Don't just use technology. Understand it, build with it, and make it useful."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:142B4D,100:0B1220&height=110&section=footer" width="100%" />
 
 </div>
