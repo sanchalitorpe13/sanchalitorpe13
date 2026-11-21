@@ -1,10 +1,10 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:142B4D,100:2563EB&height=200&section=header&text=Sanchali%20Torpe&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=AI%2FML%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER%20%7C%20OPEN%20SOURCE%20CONTRIBUTOR&descSize=13&descAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:142B4D,100:2563EB&height=200&section=header&text=Sanchali%20Torpe&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=AI%2FML%20%7C%20PYTHON%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20OPEN%20SOURCE&descSize=13&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Exploring+AI+%7C+ML+%7C+LLM+Engineering;Developing+Real-World+AI+Applications;Contributing+to+Open+Source" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Learning+AI.+Building+Intelligent+Systems.;Exploring+Machine+Learning+%26+Generative+AI.;Python+%7C+DSA+%7C+Open+Source;Turning+Ideas+Into+Practical+Projects." />
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-**Building Intelligence. Engineering Impact.**
+**Learning Intelligence. Building With Purpose.**
 
 </div>
 
@@ -28,19 +28,20 @@
 
 ## About Me
 
-Hi, I'm **Sanchali Torpe**, a Computer Engineering student passionate about Artificial Intelligence, Machine Learning and Software Engineering.
+Hi! I'm **Sanchali Torpe**, a Computer Engineering student interested in Artificial Intelligence, Machine Learning and Software Development.
 
-I enjoy building intelligent applications, experimenting with LLM-powered systems, exploring AI agents and contributing to open-source projects.
+I enjoy exploring how data, algorithms and intelligent systems can solve real-world problems. My journey combines programming, AI/ML experimentation, problem-solving and open-source contributions.
 
-- 🎓 B.Tech Computer Engineering — Sanjivani College of Engineering
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🧠 Interested in Generative AI, LLMs, RAG and Agentic Systems
+- 🎓 B.Tech in Computer Engineering — Sanjivani College of Engineering
+- 🤖 Learning and building in Artificial Intelligence and Machine Learning
+- 🐍 Interested in Python, Data Science and Machine Learning
+- 🧠 Exploring Generative AI, LLMs, RAG and AI Agents
 - 🌍 Open Source Contributor — GSSoC 2026
 - 🏆 Smartly × GSSoC AI Agents Track — Global Rank #3
-- 💻 300+ Data Structures and Algorithms problems solved
-- 🚀 Focused on building practical and impactful software
+- 💻 Practicing Data Structures and Algorithms
+- 🚀 Focused on building practical AI-powered applications
 
-**Current Focus:** AI/ML Engineering + Software Development.
+**Current Direction:** AI/ML Engineering + Software Development.
 
 ---
 
@@ -52,9 +53,9 @@ I enjoy building intelligent applications, experimenting with LLM-powered system
 
 ### GitHub Issue Triage ML
 
-AI-powered system that automatically classifies and prioritizes GitHub issues using NLP and Machine Learning.
+An AI-powered issue classification project exploring machine learning and NLP for organizing GitHub issues.
 
-**Focus:** Applied ML · NLP · Automation
+**Focus:** Python · Machine Learning · NLP
 
 <a href="https://github.com/sanchalitorpe13/github-issue-triage-ml">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=flat-square&logo=github&logoColor=white"/>
@@ -65,9 +66,9 @@ AI-powered system that automatically classifies and prioritizes GitHub issues us
 
 ### FriendMind
 
-A personal AI study companion built using open-source AI technologies.
+A local AI study companion that uses document-based question answering and retrieval-augmented generation.
 
-**Focus:** RAG · Local LLMs · AI Applications
+**Focus:** Python · FastAPI · RAG · ChromaDB · Ollama
 
 <a href="https://github.com/sanchalitorpe13/FriendMind">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=flat-square&logo=github&logoColor=white"/>
@@ -80,7 +81,7 @@ A personal AI study companion built using open-source AI technologies.
 
 ### TrailMate-AI
 
-AI-powered nature exploration companion that generates personalized outdoor missions and tracks experiences.
+An AI-powered nature exploration companion designed around personalized outdoor missions and experiences.
 
 **Focus:** AI Applications · Personalization
 
@@ -93,7 +94,7 @@ AI-powered nature exploration companion that generates personalized outdoor miss
 
 ### SafeEval
 
-LLM evaluation framework for hallucination detection, bias analysis and factual consistency.
+An LLM evaluation project focused on exploring hallucinations, bias and factual consistency.
 
 **Focus:** LLM Evaluation · AI Reliability
 
@@ -108,9 +109,9 @@ LLM evaluation framework for hallucination detection, bias analysis and factual 
 
 ### SupportGen
 
-AI-powered customer support automation for complaint classification, response generation and ticket creation.
+An AI-powered customer support automation project exploring complaint classification and response generation.
 
-**Focus:** NLP · LLMs · Tool Calling
+**Focus:** Python · NLP · Generative AI
 
 <a href="https://github.com/sanchalitorpe13/SupportGen">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=flat-square&logo=github&logoColor=white"/>
@@ -121,9 +122,9 @@ AI-powered customer support automation for complaint classification, response ge
 
 ### Claim Nova
 
-Vehicle insurance claim automation exploring computer vision for intelligent damage detection.
+An AI-powered insurance claim management project exploring automation and intelligent claim processing.
 
-**Focus:** Computer Vision · YOLOv8 · OpenCV
+**Focus:** Python · SQL · FastAPI
 
 <a href="https://github.com/sanchalitorpe13">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-2563EB?style=flat-square&logo=github&logoColor=white"/>
@@ -140,40 +141,79 @@ Vehicle insurance claim automation exploring computer vision for intelligent dam
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark"/>
 </p>
 
-### Artificial Intelligence & Machine Learning
+### Python & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-142B4D?style=flat-square&logo=scikitlearn&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-142B4D?style=flat-square&logo=huggingface&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/YOLOv8-142B4D?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark"/>
+<img src="https://img.shields.io/badge/Matplotlib-142B4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-142B4D?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark"/>
 </p>
 
-### Generative AI & LLM Engineering
+### Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-142B4D?style=flat-square&logo=scikitlearn&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Supervised%20Learning-142B4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-142B4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-142B4D?style=flat-square"/>
+</p>
+
+### Deep Learning & AI
+
+<p>
+<img src="https://img.shields.io/badge/Neural%20Networks-142B4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-142B4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-142B4D?style=flat-square"/>
+</p>
+
+### Generative AI
 
 <p>
 <img src="https://img.shields.io/badge/LLMs-142B4D?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-142B4D?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-142B4D?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ollama-142B4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-142B4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-142B4D?style=flat-square&logo=ollama&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/ChromaDB-142B4D?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-142B4D?style=flat-square"/>
 </p>
 
-### Development & Databases
+### Backend & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,flask,nodejs,mongodb,mysql,postgres,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,html,css,js,mysql,git,github,vscode&theme=dark"/>
 </p>
 
-### Tools & Platforms
+### Currently Exploring
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vscode,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-142B4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-142B4D?style=flat-square&logo=pytorch&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/TensorFlow-142B4D?style=flat-square&logo=tensorflow&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Transformers-142B4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-142B4D?style=flat-square&logo=docker&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Kubernetes-142B4D?style=flat-square&logo=kubernetes&logoColor=60A5FA"/>
 </p>
+
+---
+
+## AI/ML Learning Roadmap
+
+Currently following a structured learning path covering:
+
+| Domain | Learning Areas |
+|---|---|
+| Python | Core Python, functions, collections, OOP, file handling |
+| Data Science | NumPy, Pandas, preprocessing, visualization |
+| Mathematics | Statistics, probability, linear algebra, calculus |
+| Machine Learning | Regression, classification, clustering, model evaluation |
+| Deep Learning | Neural networks, CNN, RNN, LSTM, Transformers |
+| Generative AI | LLMs, GANs, RAG, Agentic AI |
+| AI Engineering | Flask, SQL, HTML, CSS, JavaScript, Git, Docker |
+
+**Learning philosophy:** Understand the fundamentals, implement the concepts, and apply them through projects.
 
 ---
 
@@ -185,17 +225,17 @@ Vehicle insurance claim automation exploring computer vision for intelligent dam
 - B Tier
 - Contributor across Open Source and AI Agents tracks
 - GSSoC Champion badge
-- First merged pull request and continued open-source contributions
+- First merged pull request and continued contributions
 
 ### Smartly × GSSoC AI Agents Track
 
 - 🏆 Global Rank #3
 - 🌟 City Rank #1
 - Recognized in the Top 50
-- Worked on agent-oriented open-source projects
+- Contributed to AI-agent-focused open-source projects
 - Badges: Trusted Corrector, Localization Specialist and Regional Expert
 
-**Open source is more than writing code. It's about collaboration, learning and building together.**
+> Open source is more than writing code. It's about collaboration, learning and building together.
 
 ---
 
@@ -205,7 +245,7 @@ Strengthening my problem-solving skills through Data Structures, Algorithms and 
 
 <div align="center">
 
-<a href="https://leetcode.com/u/sanchalitorpe13/">
+<a href="https://leetcode.com/u/Sanchxliii/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-142B4D?style=for-the-badge&logo=leetcode&logoColor=60A5FA"/>
 </a>
 
@@ -219,7 +259,7 @@ Strengthening my problem-solving skills through Data Structures, Algorithms and 
 
 <br/><br/>
 
-**300+ DSA Problems Solved**
+**Data Structures · Algorithms · Problem Solving**
 
 </div>
 
@@ -247,18 +287,19 @@ Strengthening my problem-solving skills through Data Structures, Algorithms and 
 
 ## Currently Exploring
 
-- Production-oriented AI applications
-- Large Language Models and Retrieval-Augmented Generation
-- Autonomous AI agents and agentic workflows
-- Machine Learning and Computer Vision
+- Machine Learning algorithms and practical implementation
+- Data analysis and visualization
+- Deep Learning fundamentals
+- Large Language Models and RAG
+- AI agents and agentic workflows
 - Data Structures and Algorithms
-- Scalable software engineering
+- Building practical AI-powered applications
 
 ---
 
 ## Let's Connect
 
-I'm open to collaborating on projects involving AI, Machine Learning, Generative AI, Software Engineering and Open Source.
+I'm interested in collaborating on projects involving Artificial Intelligence, Machine Learning, Python, Generative AI and Open Source.
 
 <div align="center">
 
@@ -268,6 +309,10 @@ I'm open to collaborating on projects involving AI, Machine Learning, Generative
 
 <a href="https://github.com/sanchalitorpe13">
 <img src="https://img.shields.io/badge/GitHub-Follow-142B4D?style=for-the-badge&logo=github&logoColor=60A5FA"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sanchali-torpe-1b749b372/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-142B4D?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 
 <br/><br/>
